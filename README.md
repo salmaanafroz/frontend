@@ -2,7 +2,7 @@ Freshworks – Frontend Assignment
 
 Country Explorer
 
-Project Link: https://www.000webhost.com/members/website/country-explorer
+Project Link: http://country-explorer.000webhostapp.com/
 
 Build a web application that helps you find information about any country and display them. You
 are free to design the experience of this app to your personal tastes.
