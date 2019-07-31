@@ -2,6 +2,8 @@ Freshworks – Frontend Assignment
 
 Country Explorer
 
+Project Link: https://www.000webhost.com/members/website/country-explorer
+
 Build a web application that helps you find information about any country and display them. You
 are free to design the experience of this app to your personal tastes.
 
@@ -28,6 +30,4 @@ app without using any web frameworks (e.g, React, Angular, Vue, Jquery etc).
 6. Bonus points for good error handling.
 7. Bonus points for adding interesting features as well.
 
-Submission:
 
-Submit a link to the source code, ideally committed to GitHub.
